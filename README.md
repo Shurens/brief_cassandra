@@ -1,6 +1,5 @@
 # ReadMe - brief_cassandra
 
-Bienvenue dans le projet XYZ ! Suivez les instructions ci-dessous pour mettre en place et tester ce projet.
 
 ## Prérequis
 Assurez-vous d'avoir les éléments suivants installés sur votre système avant de commencer :
